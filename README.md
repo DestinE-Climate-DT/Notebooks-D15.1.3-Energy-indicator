@@ -4,13 +4,13 @@ This repository provides Jupyter notebooks for assessing the scientific robustne
 
 ---
 
-## 🌍 Objective
+##  Objective
 
 To evaluate how well the climate variables and indicators tailored to the wind energy sector from the Climate DT simulations capture the **spatio-temporal characteristics** of wind patterns, compared to reference data from **ERA5**.
 
 ---
 
-## 🌀 Climate DT Simulations Used
+##  Climate DT Simulations Used
 
 1. **Freeze run + Historical Ensembles**
    - **Simulations**: Freeze run (`a24r`) and 3-member historical ensemble
@@ -26,16 +26,16 @@ To evaluate how well the climate variables and indicators tailored to the wind e
 
 ---
 
-## 📈 Scientific Assessment and UQ Components
+##  Scientific Assessment and UQ Components
 
-- 📊 **Comparison with ERA5**
-- 📉 **Mean Bias (MB)**
-- 📐 **Root Mean Square Error (RMSE)**
-- 🔄 **Pairwise differences between each ensemble member and the freeze run**
+-  **Comparison with ERA5**
+-  **Mean Bias (MB)**
+-  **Root Mean Square Error (RMSE)**
+-  **Pairwise differences between each ensemble member and the freeze run**
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 - Climate DT simulations are **regridded** to the ERA5 grid using a **conservative regridding** technique to ensure compatibility.
 - Primary variable of interest: **wind speed at 100m** and **capacity factor**
@@ -46,7 +46,7 @@ Ramon et al. (2019), *Conservative regridding technique for climate fields*
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 - `Energy_indicator_UQ_global_ws_DE34015_1_3_Notebook_1.ipynb`  
   → Global wind speed UQ and comparison across members
@@ -56,163 +56,15 @@ Ramon et al. (2019), *Conservative regridding technique for climate fields*
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **Email**: [energy-destine@bsc.es](mailto:energy-destine@bsc.es)  
 - **Responsible**: *Sushovan Ghosh* (Barcelona Supercomputing Center)
 
 ---
 
-## 📝 License
+##  License
 
 To be added — choose based on BSC/DestinE policy (e.g., MIT, Apache 2.0).
 
 ---
-
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-
