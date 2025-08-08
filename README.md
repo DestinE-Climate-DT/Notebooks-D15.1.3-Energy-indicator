@@ -24,6 +24,20 @@ To evaluate how well the climate variables and indicators tailored to the wind e
    - **Model**: IFS-NEMO
    - **Resolution**: Global, 10 km horizontal
 
+3. **E-suite control simulation (o005)**  
+   - **Period**: 1990–1994 (5 years)  
+   - **Model**: IFS-NEMO  
+   - **Domain**: North Sea (5°W–10°E, 50°N–60°N)  
+   - **Resolution**: 5 km horizontal  
+   - **Indicator**: Capacity Factor class -S  
+
+4. **O-suite control simulation (o007)**  
+   - **Period**:1990–2005 (15 years)  
+   - **Model**: IFS-NEMO  
+   - **Domain**: North Sea (5°W–10°E, 50°N–60°N)  
+   - **Resolution**: 5 km horizontal
+   - **Indicator**: Capacity Factor class -S  
+
 ---
 
 ##  Scientific Assessment and UQ Components
